@@ -1,0 +1,6 @@
+O primeiro passo é a criação de um teste funcional, que falha inicialmente, assim podemos começar 
+escrever o código da aplicação. Neste momento usa-se Testes de unidade para definir o comportamento
+do código, a ideia é tentar maximizar as linhas do código cobertas pelos testes de unidade.
+Um vez os testes de unidades criados e falhando(porque não se tem código ainda), escreve-se a aplicação
+para que os testes passem, nesse fluxo podemos ter que iterar algumas vezes. Por fim, roda-se novamente o 
+teste funcional pode-se também iterar nesse fluxo como um todo.
