@@ -1,0 +1,3 @@
+Testes de unidade devem ser automáticos, enquanto testes funcionais podem ser ambos manuais e automáticos.
+Testes de unidade seguem uma ideia da técnica de teste White box testing, enquanto testes funcionais 
+seguem uma ideia da técnica de teste Black Box testing.
